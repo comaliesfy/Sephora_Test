@@ -1,7 +1,9 @@
 
 ### IntelliJ IDEA ###
 .idea
+
 .build
+
 
 # compiled output
 .target
